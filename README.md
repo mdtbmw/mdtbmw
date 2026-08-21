@@ -24,8 +24,11 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/mdtbmw)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/mdtbmw)&nbsp;
 [![X](https://img.shields.io/badge/X-MDTBMW-000000?style=for-the-badge&logo=x&logoColor=FFD700)](https://x.com/MDTBMW)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-MDTBMW-000000?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://instagram.com/MDTBMW)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-mdtbmw-000000?style=for-the-badge&logo=youtube&logoColor=FFD700)](https://youtube.com/@mdtbmw)&nbsp;
+[![Email](https://img.shields.io/badge/Email-projects.mdtbmw-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:projects.mdtbmw@gmail.com)&nbsp;
 [![Music](https://img.shields.io/badge/Music-@unxa.id-FFD700?style=for-the-badge&logo=spotify&logoColor=000000)](https://instagram.com/unxa.id)
 
 <br/>
@@ -527,13 +530,12 @@ Technology is my primary professional arena. **Creativity is part of how I think
 | Platform | Identity | Link |
 |:---:|:---:|:---:|
 | 🐙 GitHub | `mdtbmw` | [github.com/mdtbmw](https://github.com/mdtbmw) |
-| 🐦 X / Twitter | `MDTBMW` | [x.com/MDTBMW](https://x.com/MDTBMW) |
-| 📸 Instagram | `MDTBMW` | [instagram.com/MDTBMW](https://instagram.com/MDTBMW) |
+| 💼 LinkedIn | `mdtbmw` | [linkedin.com/in/mdtbmw](https://linkedin.com/in/mdtbmw) |
+| 🐦 X / Twitter | `@MDTBMW` | [x.com/MDTBMW](https://x.com/MDTBMW) |
+| 📸 Instagram | `@MDTBMW` | [instagram.com/MDTBMW](https://instagram.com/MDTBMW) |
+| 📺 YouTube | `@mdtbmw` | [youtube.com/@mdtbmw](https://youtube.com/@mdtbmw) |
+| ✉️ Email | `projects.mdtbmw@gmail.com` | [projects.mdtbmw@gmail.com](mailto:projects.mdtbmw@gmail.com) |
 | 🎵 Music / Unxa | `@unxa.id` | [instagram.com/unxa.id](https://instagram.com/unxa.id) |
-| 💼 LinkedIn | — | `YOUR_LINKEDIN_URL` |
-| 📺 YouTube | — | `YOUR_YOUTUBE_URL` |
-| 🌐 Website | — | `YOUR_WEBSITE_URL` |
-| ✉️ Email | — | `YOUR_EMAIL` |
 
 </div>
 
