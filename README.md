@@ -122,59 +122,12 @@
 <h2 id="-the-ibog-framework"><code>THE IBOG FRAMEWORK</code></h2>
 
 <div align="center">
-
-> *Every product, system, and business I touch moves through this framework.*
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   01 — IDEATION              02 — BUILDING                           ║
-║   ─────────────────          ─────────────────────                   ║
-║   Idea → Clarity             Structure → Product                      ║
-║   Problem → Concept          Design → Digital Experience              ║
-║                                                                      ║
-║   03 — OPERATIONS            04 — GROWTH                             ║
-║   ──────────────────         ──────────────────                      ║
-║   System → Function          Function → Scale                         ║
-║   Process → Efficiency       Distribution → Sustainability            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-```
-        IDEA ──► IDEATION ──► BUILDING ──► OPERATIONS ──► GROWTH ──► BUSINESS
-```
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ibog_dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="ibog_light.svg?v=1" />
+    <img alt="The IBOG Framework - Lifecycle Engine" src="ibog_dark.svg?v=1" width="100%" />
+  </picture>
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="8%"><code>01</code></td>
-<td width="22%"><b><code>IDEATION</code></b></td>
-<td>Turning ideas, problems, and opportunities into clear products, services, systems, and business concepts. Where ambiguity becomes architecture. Most people skip this. I never do.</td>
-</tr>
-<tr>
-<td align="center"><code>02</code></td>
-<td><b><code>BUILDING</code></b></td>
-<td>Designing and developing the actual digital experience — website, application, SaaS product, platform, or infrastructure. Where thinking becomes something tangible you can ship and iterate.</td>
-</tr>
-<tr>
-<td align="center"><code>03</code></td>
-<td><b><code>OPERATIONS</code></b></td>
-<td>Creating workflows, systems, automation, documentation, processes, and infrastructure that allow a business to function without constant intervention. Where a product becomes a company.</td>
-</tr>
-<tr>
-<td align="center"><code>04</code></td>
-<td><b><code>GROWTH</code></b></td>
-<td>Improving distribution, user experience, scalability, conversion, revenue, and long-term sustainability. Where a working system becomes a growing one.</td>
-</tr>
-</table>
 
 <br/>
 
