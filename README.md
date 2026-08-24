@@ -33,7 +33,6 @@
 
 <div align="center">
 
-[![ABOUT](https://img.shields.io/badge/ABOUT-111111?style=flat-square&color=FFE873&labelColor=111111)](#-about)&nbsp;
 [![WHAT I DO](https://img.shields.io/badge/WHAT_I_DO-111111?style=flat-square&color=FFE873&labelColor=111111)](#-what-i-do)&nbsp;
 [![IBOG](https://img.shields.io/badge/IBOG_FRAMEWORK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-the-ibog-framework)&nbsp;
 [![SELECTED WORK](https://img.shields.io/badge/SELECTED_WORK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-selected-work)&nbsp;
@@ -52,10 +51,8 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT                                    -->
+<!--                    PROFILE CARD                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 id="-about"><code>ABOUT</code></h2>
 
 <div align="center">
   <picture>
