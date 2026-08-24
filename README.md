@@ -13,13 +13,13 @@
 
 <br/>
 
-<!-- Big Centered MDTBMW Monospace Waving Banner (Electric Blue Theme) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=260&text=MDTBMW&fontSize=100&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&fontFamily=Share+Tech+Mono&desc=Daniel+Innocent+%C2%B7+Masked+Daniel+%C2%B7+Digital+Solutions+Expert&descAlignY=62&descSize=18&descColor=FFFFFF&descAlign=50&fontAlign=50" width="100%" alt="MDTBMW — Daniel Innocent · Digital Solutions Expert"/>
+<!-- Big Centered MDTBMW Monospace Waving Banner (Light Yellow Theme) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=260&text=MDTBMW&fontSize=100&fontColor=FFE873&animation=fadeIn&fontAlignY=42&fontFamily=Share+Tech+Mono&desc=Daniel+Innocent+%C2%B7+Masked+Daniel+%C2%B7+Digital+Solutions+Expert&descAlignY=62&descSize=18&descColor=FFFFFF&descAlign=50&fontAlign=50" width="100%" alt="MDTBMW — Daniel Innocent · Digital Solutions Expert"/>
 
 <br/>
 
-<!-- Dynamic Typing SVG (Electric Blue Theme) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Your+Vision%2C+my+Mission.;Ideation+%E2%86%92+Building+%E2%86%92+Operations+%E2%86%92+Growth;Digital+Products+%C2%B7+Systems+%C2%B7+Experiences;HeyTek+Limited+%C2%B7+Global+Digital+Solutions" alt="Typing Animation"/>
+<!-- Dynamic Typing SVG (Light Yellow Theme) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FFE873&center=true&vCenter=true&width=700&lines=Your+Vision%2C+my+Mission.;Ideation+%E2%86%92+Building+%E2%86%92+Operations+%E2%86%92+Growth;Digital+Products+%C2%B7+Systems+%C2%B7+Experiences;HeyTek+Limited+%C2%B7+Global+Digital+Solutions" alt="Typing Animation"/>
 
 <br/><br/>
 
@@ -237,7 +237,7 @@
 <tr>
 <td><b><code>Engraced Dispatch</code></b></td>
 <td><code>Logistics / Brand</code></td>
-<td>Logistics and dispatch brand. Visual identity: Black · White · Blue</td>
+<td>Logistics and dispatch brand. Visual identity: Black · White · Gold</td>
 </tr>
 <tr>
 <td><b><code>NAME Bootcamp</code></b></td>
@@ -327,23 +327,23 @@ Built on the premise that logistics is fundamentally a systems problem, not just
 <h4><code>01 · FRONTEND &amp; INTERFACES</code></h4>
 <p>Modern, responsive client applications built for high performance and zero friction.</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=58A6FF)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=58A6FF)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=58A6FF)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=58A6FF)<br/>
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=58A6FF)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FFE873)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FFE873)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFE873)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FFE873)<br/>
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FFE873)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=FFFFFF)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=58A6FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=FFE873)
 </td>
 <td width="50%" valign="top">
 <h4><code>02 · BACKEND &amp; CLOUD</code></h4>
 <p>Scalable cloud infrastructure, serverless architectures, and robust API layers.</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=58A6FF)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=58A6FF)&nbsp;
-![Firestore](https://img.shields.io/badge/Firestore-000000?style=flat-square&logo=firebase&logoColor=58A6FF)<br/>
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=58A6FF)&nbsp;
-![Cloud Systems](https://img.shields.io/badge/Cloud_Systems-000000?style=flat-square&logo=google-cloud&logoColor=58A6FF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=FFE873)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFE873)&nbsp;
+![Firestore](https://img.shields.io/badge/Firestore-000000?style=flat-square&logo=firebase&logoColor=FFE873)<br/>
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=FFE873)&nbsp;
+![Cloud Systems](https://img.shields.io/badge/Cloud_Systems-000000?style=flat-square&logo=google-cloud&logoColor=FFE873)
 </td>
 </tr>
 <tr>
@@ -351,20 +351,20 @@ Built on the premise that logistics is fundamentally a systems problem, not just
 <h4><code>03 · AI &amp; AUTOMATION</code></h4>
 <p>LLM integrations, intelligent pipelines, and end-to-end workflow automation.</p>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=58A6FF)&nbsp;
-![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-000000?style=flat-square&logo=openai&logoColor=58A6FF)<br/>
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-000000?style=flat-square&logo=zapier&logoColor=58A6FF)&nbsp;
-![AI Logic](https://img.shields.io/badge/AI_Logic-000000?style=flat-square&logo=anthropic&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFE873)&nbsp;
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-000000?style=flat-square&logo=openai&logoColor=FFE873)<br/>
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-000000?style=flat-square&logo=zapier&logoColor=FFE873)&nbsp;
+![AI Logic](https://img.shields.io/badge/AI_Logic-000000?style=flat-square&logo=anthropic&logoColor=FFE873)
 </td>
 <td width="50%" valign="top">
 <h4><code>04 · DESIGN &amp; DEPLOYMENT</code></h4>
 <p>Design systems, version control, modern CI/CD pipelines, and cloud hosting.</p>
 
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=58A6FF)&nbsp;
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=58A6FF)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=FFE873)&nbsp;
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFE873)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF)<br/>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=58A6FF)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=FFE873)
 </td>
 </tr>
 </table>
@@ -486,15 +486,15 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/>
 
-<!-- Live Dynamic Metrics Dashboard (Electric Blue Theme) -->
-[![Repositories](https://img.shields.io/badge/Public_Repositories-25-58A6FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/mdtbmw?tab=repositories)&nbsp;
-[![Followers](https://img.shields.io/github/followers/mdtbmw?style=for-the-badge&color=58A6FF&labelColor=000000&logo=github&logoColor=58A6FF&label=Followers)](https://github.com/mdtbmw?tab=followers)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=mdtbmw&style=for-the-badge&color=58A6FF&labelColor=000000&label=PROFILE+VIEWS&abbreviated=true)
+<!-- Live Dynamic Metrics Dashboard (Light Yellow Theme) -->
+[![Repositories](https://img.shields.io/badge/Public_Repositories-25-FFE873?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/mdtbmw?tab=repositories)&nbsp;
+[![Followers](https://img.shields.io/github/followers/mdtbmw?style=for-the-badge&color=FFE873&labelColor=000000&logo=github&logoColor=000000&label=Followers)](https://github.com/mdtbmw?tab=followers)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=mdtbmw&style=for-the-badge&color=FFE873&labelColor=000000&label=PROFILE+VIEWS&abbreviated=true)
 
 <br/><br/>
 
-<!-- Live GitHub Contribution Calendar (Electric Blue on Dark) -->
-<img src="https://ghchart.rshah.org/58A6FF/mdtbmw" alt="Daniel Innocent's Contribution Graph" width="100%"/>
+<!-- Live GitHub Contribution Calendar (Light Yellow on Dark) -->
+<img src="https://ghchart.rshah.org/FFE873/mdtbmw" alt="Daniel Innocent's Contribution Graph" width="100%"/>
 
 <br/><br/>
 
@@ -518,12 +518,12 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/mdtbmw)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/mdtbmw)&nbsp;
-[![X](https://img.shields.io/badge/X-@MDTBMW-000000?style=flat-square&logo=x&logoColor=58A6FF)](https://x.com/MDTBMW)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@MDTBMW-000000?style=flat-square&logo=instagram&logoColor=58A6FF)](https://instagram.com/MDTBMW)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-@mdtbmw-000000?style=flat-square&logo=youtube&logoColor=58A6FF)](https://youtube.com/@mdtbmw)&nbsp;
-[![Email](https://img.shields.io/badge/Email-projects.mdtbmw-000000?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:projects.mdtbmw@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=flat-square&logo=github&logoColor=FFE873)](https://github.com/mdtbmw)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=flat-square&logo=linkedin&logoColor=FFE873)](https://linkedin.com/in/mdtbmw)&nbsp;
+[![X](https://img.shields.io/badge/X-@MDTBMW-000000?style=flat-square&logo=x&logoColor=FFE873)](https://x.com/MDTBMW)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@MDTBMW-000000?style=flat-square&logo=instagram&logoColor=FFE873)](https://instagram.com/MDTBMW)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-@mdtbmw-000000?style=flat-square&logo=youtube&logoColor=FFE873)](https://youtube.com/@mdtbmw)&nbsp;
+[![Email](https://img.shields.io/badge/Email-projects.mdtbmw-000000?style=flat-square&logo=gmail&logoColor=FFE873)](mailto:projects.mdtbmw@gmail.com)
 
 <br/><br/>
 
@@ -550,8 +550,8 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/>
 
-<!-- Full-width centered footer banner (Electric Blue Theme) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=THINK%20%C2%B7%20BUILD%20%C2%B7%20SYSTEMIZE%20%C2%B7%20GROW&fontSize=32&fontColor=58A6FF&animation=fadeIn&fontAlign=50&fontAlignY=45&desc=Daniel%20Innocent%20%C2%B7%20Masked%20Daniel%20%C2%B7%20MDTBMW%20%C2%B7%20Digital%20Solutions%20Expert&descSize=14&descAlign=50&descAlignY=68&descColor=FFFFFF" width="100%" alt="THINK · BUILD · SYSTEMIZE · GROW"/>
+<!-- Full-width centered footer banner (Light Yellow Theme) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=THINK%20%C2%B7%20BUILD%20%C2%B7%20SYSTEMIZE%20%C2%B7%20GROW&fontSize=32&fontColor=FFE873&animation=fadeIn&fontAlign=50&fontAlignY=45&desc=Daniel%20Innocent%20%C2%B7%20Masked%20Daniel%20%C2%B7%20MDTBMW%20%C2%B7%20Digital%20Solutions%20Expert&descSize=14&descAlign=50&descAlignY=68&descColor=FFFFFF" width="100%" alt="THINK · BUILD · SYSTEMIZE · GROW"/>
 
 <br/>
 
