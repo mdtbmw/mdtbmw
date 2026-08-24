@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="550" viewBox="0 0 1125 550" role="img" aria-label="ASCII GitHub profile card for Daniel Innocent (mdtbmw)">
-  <rect x="0.5" y="0.5" width="1124" height="549" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="540" viewBox="0 0 1125 540" role="img" aria-label="ASCII GitHub profile card for Daniel Innocent (mdtbmw)">
+  <rect x="0.5" y="0.5" width="1124" height="539" rx="8" fill="#ffffff" stroke="#d0d7de"/>
 
   <!-- Left Column: About & Focus Text -->
   <text x="36" y="44" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Daniel Innocent · MDTBMW </tspan><tspan fill="#d0d7de">────────────────────────────</tspan></text>
@@ -20,7 +20,7 @@
   <text x="36" y="290" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">🔧 End-to-End Builder </tspan><tspan fill="#8c959f">..</tspan><tspan fill="#24292f"> Design, dev, operations &amp; business strategy</tspan></text>
   <text x="36" y="316" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">🌍 African Impact </tspan><tspan fill="#8c959f">......</tspan><tspan fill="#24292f"> Rooted in Benin, building for global market</tspan></text>
   <text x="36" y="342" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">🤝 Youth Development </tspan><tspan fill="#8c959f">...</tspan><tspan fill="#24292f"> Digital literacy &amp; Cherish Child NGO</tspan></text>
-  <text x="36" y="368" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">🎵 Creative Expression </tspan><tspan fill="#8c959f">.</tspan><tspan fill="#24292f"> Music &amp; storytelling as Unxa · @unxa.id</tspan></text>
+  <text x="36" y="368" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">🎨 Creative Strategy </tspan><tspan fill="#8c959f">....</tspan><tspan fill="#24292f"> Storytelling, media &amp; brand narrative</tspan></text>
 
   <!-- Quick Stats & Contact Section -->
   <text x="36" y="408" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Quick Stats &amp; Links </tspan><tspan fill="#d0d7de">─────────────────────────────────</tspan></text>
@@ -28,10 +28,10 @@
   <text x="36" y="434" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">. Repos: </tspan><tspan fill="#8c959f">......</tspan><tspan fill="#0550ae"> 25</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">....</tspan><tspan fill="#0550ae"> 170+</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Location: </tspan><tspan fill="#8c959f">..</tspan><tspan fill="#24292f"> Benin City, NG</tspan></text>
   <text x="36" y="460" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">. Company: </tspan><tspan fill="#8c959f">................</tspan><tspan fill="#24292f"> HeyTek Limited</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Role: </tspan><tspan fill="#8c959f">........</tspan><tspan fill="#24292f"> Founder / Lead</tspan></text>
   <text x="36" y="486" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">. Email: </tspan><tspan fill="#8c959f">..</tspan><tspan fill="#24292f"> projects.mdtbmw@gmail.com</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. GitHub: </tspan><tspan fill="#8c959f">...</tspan><tspan fill="#24292f"> github.com/mdtbmw</tspan></text>
-  <text x="36" y="512" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">. X / Twitter: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#24292f"> @mdtbmw</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Music: </tspan><tspan fill="#8c959f">......</tspan><tspan fill="#24292f"> @unxa.id</tspan></text>
+  <text x="36" y="512" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13"><tspan fill="#953800">. X / Twitter: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#24292f"> @mdtbmw</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. LinkedIn: </tspan><tspan fill="#8c959f">....</tspan><tspan fill="#c9d1d9"> in/mdtbmw</tspan></text>
 
-  <!-- Right Column: Scaled Monospace ASCII Portrait on Right -->
-  <g transform="translate(560, 10)">
+  <!-- Right Column: Perfect Circle Scaled Monospace ASCII Portrait -->
+  <g transform="translate(570, 75) scale(1.0, 0.73)">
     <text x="0" y="34.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@VYYY{u--------------uZYYY4@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
     <text x="0" y="44.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\YYu__g@@@@@@@@@@@@@@@@@@@@@@@@g__jfY4@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
     <text x="0" y="53.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@VY\__@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g_zY4@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>

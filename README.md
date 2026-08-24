@@ -23,16 +23,6 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/mdtbmw)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/mdtbmw)&nbsp;
-[![X](https://img.shields.io/badge/X-MDTBMW-000000?style=for-the-badge&logo=x&logoColor=FFD700)](https://x.com/MDTBMW)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-MDTBMW-000000?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://instagram.com/MDTBMW)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-mdtbmw-000000?style=for-the-badge&logo=youtube&logoColor=FFD700)](https://youtube.com/@mdtbmw)&nbsp;
-[![Email](https://img.shields.io/badge/Email-projects.mdtbmw-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:projects.mdtbmw@gmail.com)&nbsp;
-[![Music](https://img.shields.io/badge/Music-@unxa.id-FFD700?style=for-the-badge&logo=spotify&logoColor=000000)](https://instagram.com/unxa.id)
-
-<br/>
-
 ---
 
 </div>
@@ -49,7 +39,7 @@
 [`◈ Work`](#-selected-work) &nbsp;**·**&nbsp;
 [`◈ Stack`](#-tech-stack) &nbsp;**·**&nbsp;
 [`◈ Philosophy`](#-building-philosophy) &nbsp;**·**&nbsp;
-[`◈ Creative`](#-beyond-code) &nbsp;**·**&nbsp;
+[`◈ Beyond Code`](#-beyond-code) &nbsp;**·**&nbsp;
 [`◈ Activity`](#-github-activity--metrics) &nbsp;**·**&nbsp;
 [`◈ Connect`](#-connect)
 
@@ -96,27 +86,27 @@
 </thead>
 <tbody>
 <tr>
-<td><b>🖥️ Digital Products</b></td>
+<td><b>🖥️ <code>Digital Products</code></b></td>
 <td>SaaS platforms, web applications, MVPs, internal tools — from concept to deployed product</td>
 </tr>
 <tr>
-<td><b>⚙️ Systems & Operations</b></td>
+<td><b>⚙️ <code>Systems &amp; Operations</code></b></td>
 <td>Business workflows, automation, operational infrastructure, documentation — the machinery that keeps things running</td>
 </tr>
 <tr>
-<td><b>🌐 Web & Platforms</b></td>
+<td><b>🌐 <code>Web &amp; Platforms</code></b></td>
 <td>Websites, landing pages, business platforms, conversion-focused digital experiences</td>
 </tr>
 <tr>
-<td><b>🎨 Design & UI/UX</b></td>
+<td><b>🎨 <code>Design &amp; UI/UX</code></b></td>
 <td>Product design, interface design, brand systems, and digital experiences that reduce friction</td>
 </tr>
 <tr>
-<td><b>🤖 AI & Automation</b></td>
+<td><b>🤖 <code>AI &amp; Automation</code></b></td>
 <td>AI-powered products, LLM integrations, intelligent workflows — technology doing the heavy lifting</td>
 </tr>
 <tr>
-<td><b>📐 Strategy</b></td>
+<td><b>📐 <code>Strategy</code></b></td>
 <td>Digital transformation, product thinking, systems design, and business process architecture</td>
 </tr>
 </tbody>
@@ -168,23 +158,23 @@
 
 <table>
 <tr>
-<td align="center" width="8%"><h3>01</h3></td>
-<td width="22%"><h3>IDEATION</h3></td>
+<td align="center" width="8%"><code>01</code></td>
+<td width="22%"><b><code>IDEATION</code></b></td>
 <td>Turning ideas, problems, and opportunities into clear products, services, systems, and business concepts. Where ambiguity becomes architecture. Most people skip this. I never do.</td>
 </tr>
 <tr>
-<td align="center"><h3>02</h3></td>
-<td><h3>BUILDING</h3></td>
+<td align="center"><code>02</code></td>
+<td><b><code>BUILDING</code></b></td>
 <td>Designing and developing the actual digital experience — website, application, SaaS product, platform, or infrastructure. Where thinking becomes something tangible you can ship and iterate.</td>
 </tr>
 <tr>
-<td align="center"><h3>03</h3></td>
-<td><h3>OPERATIONS</h3></td>
+<td align="center"><code>03</code></td>
+<td><b><code>OPERATIONS</code></b></td>
 <td>Creating workflows, systems, automation, documentation, processes, and infrastructure that allow a business to function without constant intervention. Where a product becomes a company.</td>
 </tr>
 <tr>
-<td align="center"><h3>04</h3></td>
-<td><h3>GROWTH</h3></td>
+<td align="center"><code>04</code></td>
+<td><b><code>GROWTH</code></b></td>
 <td>Improving distribution, user experience, scalability, conversion, revenue, and long-term sustainability. Where a working system becomes a growing one.</td>
 </tr>
 </table>
@@ -208,60 +198,60 @@
 <table>
 <thead>
 <tr>
-<th>Project</th>
-<th>Category</th>
-<th>Core Idea</th>
+<th>◆ Venture / Project</th>
+<th>◆ Category</th>
+<th>◆ Core Idea</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b>🏢 HeyTek</b></td>
-<td>Agency / Digital Studio</td>
-<td>Digital creative & technology company. <em>Build, Operate & Grow.</em></td>
+<td><b>🏢 <code>HeyTek</code></b></td>
+<td><code>Agency / Digital Studio</code></td>
+<td>Digital creative &amp; technology company. <em>Build, Operate &amp; Grow.</em></td>
 </tr>
 <tr>
-<td><b>🏥 Cyona Medicare</b></td>
-<td>Health Technology</td>
+<td><b>🏥 <code>Cyona Medicare</code></b></td>
+<td><code>Health Technology</code></td>
 <td>Elderly care platform — redefining the standard for geriatric care in West Africa</td>
 </tr>
 <tr>
-<td><b>🏫 Ugbekun</b></td>
-<td>EdTech / SaaS</td>
+<td><b>🏫 <code>Ugbekun</code></b></td>
+<td><code>EdTech / SaaS</code></td>
 <td>School management system — records, scheduling, comms, and reporting unified</td>
 </tr>
 <tr>
-<td><b>🚚 Oduna</b></td>
-<td>Logistics / SaaS</td>
+<td><b>🚚 <code>Oduna</code></b></td>
+<td><code>Logistics / SaaS</code></td>
 <td>Logistics SaaS solving coordination and last-mile delivery through systems-first thinking</td>
 </tr>
 <tr>
-<td><b>🌿 Ilé Ìtúnú Geriatrics</b></td>
-<td>Healthcare / Social Impact</td>
+<td><b>🌿 <code>Ilé Ìtúnú Geriatrics</code></b></td>
+<td><code>Healthcare / Social Impact</code></td>
 <td><em>Care beyond medicine.</em> Dignity, comfort, and community for the elderly.</td>
 </tr>
 <tr>
-<td><b>🥤 SweetLi</b></td>
-<td>Consumer Brand / F&B</td>
+<td><b>🥤 <code>SweetLi</code></b></td>
+<td><code>Consumer Brand / F&amp;B</code></td>
 <td>Zobo, Tigernut, Yogurt Milk, Beetroot drinks. <em>The Sweetness of Life.</em></td>
 </tr>
 <tr>
-<td><b>📦 Engraced Dispatch</b></td>
-<td>Logistics / Brand</td>
+<td><b>📦 <code>Engraced Dispatch</code></b></td>
+<td><code>Logistics / Brand</code></td>
 <td>Logistics and dispatch brand. Visual identity: Black · White · Gold</td>
 </tr>
 <tr>
-<td><b>📚 NAME Bootcamp</b></td>
-<td>Education / Branding</td>
+<td><b>📚 <code>NAME Bootcamp</code></b></td>
+<td><code>Education / Branding</code></td>
 <td>N.A.M.E. framework bootcamp for personal and organisational brand development</td>
 </tr>
 <tr>
-<td><b>💡 MD How To</b></td>
-<td>Education / Content</td>
+<td><b>💡 <code>MD How To</code></b></td>
+<td><code>Education / Content</code></td>
 <td>Complex ideas made practically useful — technology, business, systems, life</td>
 </tr>
 <tr>
-<td><b>🐐 MDNI Farms</b></td>
-<td>Agriculture / Business</td>
+<td><b>🐐 <code>MDNI Farms</code></b></td>
+<td><code>Agriculture / Business</code></td>
 <td>Boer and Kalahari Red goat farming — systems thinking applied offline</td>
 </tr>
 </tbody>
@@ -270,18 +260,18 @@
 <br/>
 
 <details>
-<summary><b>📋 Expand: Project Deep Dives</b></summary>
+<summary><b>📋 <code>Expand: Project Deep Dives</code></b></summary>
 
 <br/>
 
 <details>
-<summary><b>◆ HeyTek — Digital Creative & Technology Agency</b></summary>
+<summary><b>◆ HeyTek — Digital Creative &amp; Technology Agency</b></summary>
 <br/>
 
 HeyTek is the agency expression of the IBOG philosophy. We don't just deliver digital work — we embed the systems, processes, and infrastructure that help businesses run and grow end-to-end.
 
-**Tagline:** *Build, Operate & Grow.*
-**Focus:** Web · Product design · Brand systems · Business automation · Digital strategy
+- **Tagline:** *Build, Operate &amp; Grow.*
+- **Focus:** `Web` · `Product design` · `Brand systems` · `Business automation` · `Digital strategy`
 
 </details>
 
@@ -333,7 +323,7 @@ Built on the premise that logistics is fundamentally a systems problem, not just
 
 <div align="center">
 
-**Frontend & Web**
+`Frontend & Web`
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFD700)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFD700)
@@ -343,20 +333,20 @@ Built on the premise that logistics is fundamentally a systems problem, not just
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FFD700)
 
-**Backend & Cloud**
+`Backend & Cloud`
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD700)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFD700)
 ![Firestore](https://img.shields.io/badge/Firestore-000000?style=for-the-badge&logo=firebase&logoColor=FFD700)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=FFD700)
 
-**AI & Automation**
+`AI & Automation`
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
 ![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-000000?style=for-the-badge&logo=openai&logoColor=FFD700)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-000000?style=for-the-badge&logo=zapier&logoColor=FFD700)
 
-**Design & Deployment**
+`Design & Deployment`
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
@@ -380,7 +370,7 @@ Built on the premise that logistics is fundamentally a systems problem, not just
 
 <div align="center">
 
-> *I don't start with "What technology should we use?"*
+> *I don't start with "What technology should we use?"*  
 > *I start with "What problem are we actually solving?"*
 
 ```
@@ -393,16 +383,16 @@ Problem ──► Idea ──► Structure ──► Design ──► Build ─�
 
 | # | Principle | Why it matters |
 |:---:|---|---|
-| `01` | **Solve the real problem first** | Not the symptom. Not the assumed cause. The actual problem. |
-| `02` | **Don't overengineer prematurely** | Complexity should be earned by necessity, not introduced by habit |
-| `03` | **Make complex systems simple for users** | Sophistication lives in the architecture. Simplicity lives in the interface. |
-| `04` | **Build systems, not isolated features** | A feature solves one thing. A system solves a category of things. |
-| `05` | **Design with operations in mind** | A product that works but can't be maintained is a liability |
-| `06` | **Technology should serve the business** | The stack is a tool. The outcome is the point. |
-| `07` | **Good interfaces reduce cognitive load** | If a user has to think hard, the design has failed |
-| `08` | **A product is more than its code** | Onboarding, documentation, support — all part of the product |
-| `09` | **Scalability begins with good structure** | You cannot scale chaos. Build the foundation right before adding weight. |
-| `10` | **Automation should free human judgment, not replace it** | Remove friction. Preserve intelligence. |
+| `01` | **`Solve the real problem first`** | Not the symptom. Not the assumed cause. The actual problem. |
+| `02` | **`Don't overengineer prematurely`** | Complexity should be earned by necessity, not introduced by habit. |
+| `03` | **`Make complex systems simple for users`** | Sophistication lives in the architecture. Simplicity lives in the interface. |
+| `04` | **`Build systems, not isolated features`** | A feature solves one thing. A system solves a category of things. |
+| `05` | **`Design with operations in mind`** | A product that works but can't be maintained is a liability. |
+| `06` | **`Technology should serve the business`** | The stack is a tool. The outcome is the point. |
+| `07` | **`Good interfaces reduce cognitive load`** | If a user has to think hard, the design has failed. |
+| `08` | **`A product is more than its code`** | Onboarding, documentation, support — all part of the product. |
+| `09` | **`Scalability begins with good structure`** | You cannot scale chaos. Build the foundation right before adding weight. |
+| `10` | **`Automation should free human judgment`** | Remove friction. Preserve intelligence. |
 
 <br/>
 
@@ -433,32 +423,32 @@ Technology is my primary professional arena. **Creativity is part of how I think
 <table>
 <tr>
 <td align="center" width="12%">✍️</td>
-<td><b>Writing</b></td>
+<td><b><code>Writing</code></b></td>
 <td>Clarity through language. Ideas, frameworks, and narratives that make complex things understandable.</td>
 </tr>
 <tr>
 <td align="center">🎤</td>
-<td><b>Speaking</b></td>
+<td><b><code>Speaking</code></b></td>
 <td>Communicating systems, strategy, and technology to audiences who need to act on them.</td>
 </tr>
 <tr>
 <td align="center">🎭</td>
-<td><b>Acting</b></td>
+<td><b><code>Acting</code></b></td>
 <td>Studying character, presence, and emotion — disciplines that make communication human.</td>
 </tr>
 <tr>
-<td align="center">🎵</td>
-<td><b>Music — Unxa</b></td>
-<td>Creative expression under the identity <b>Unxa</b> · <a href="https://instagram.com/unxa.id"><code>@unxa.id</code></a></td>
+<td align="center">🎨</td>
+<td><b><code>Creative Strategy</code></b></td>
+<td>Brand narrative, visual architecture, and creative storytelling that elevates product experience.</td>
 </tr>
 <tr>
 <td align="center">🧠</td>
-<td><b>Teaching</b></td>
+<td><b><code>Teaching</code></b></td>
 <td>Making practical skills accessible. MD How To is one expression of this.</td>
 </tr>
 <tr>
 <td align="center">👥</td>
-<td><b>Youth Development</b></td>
+<td><b><code>Youth Development</code></b></td>
 <td>National Project Coordinator — <b>Cherish Child</b>. Empowering underserved children through digital literacy, education, and vocational skills.</td>
 </tr>
 </table>
@@ -515,23 +505,29 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/>
 
-| Platform | Identity | Link |
-|:---:|:---:|:---:|
-| 🐙 GitHub | `mdtbmw` | [github.com/mdtbmw](https://github.com/mdtbmw) |
-| 💼 LinkedIn | `mdtbmw` | [linkedin.com/in/mdtbmw](https://linkedin.com/in/mdtbmw) |
-| 🐦 X / Twitter | `@MDTBMW` | [x.com/MDTBMW](https://x.com/MDTBMW) |
-| 📸 Instagram | `@MDTBMW` | [instagram.com/MDTBMW](https://instagram.com/MDTBMW) |
-| 📺 YouTube | `@mdtbmw` | [youtube.com/@mdtbmw](https://youtube.com/@mdtbmw) |
-| ✉️ Email | `projects.mdtbmw@gmail.com` | [projects.mdtbmw@gmail.com](mailto:projects.mdtbmw@gmail.com) |
-| 🎵 Music / Unxa | `@unxa.id` | [instagram.com/unxa.id](https://instagram.com/unxa.id) |
+[![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=flat-square&logo=github&logoColor=FFD700)](https://github.com/mdtbmw)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=flat-square&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/mdtbmw)&nbsp;
+[![X](https://img.shields.io/badge/X-@MDTBMW-000000?style=flat-square&logo=x&logoColor=FFD700)](https://x.com/MDTBMW)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@MDTBMW-000000?style=flat-square&logo=instagram&logoColor=FFD700)](https://instagram.com/MDTBMW)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-@mdtbmw-000000?style=flat-square&logo=youtube&logoColor=FFD700)](https://youtube.com/@mdtbmw)&nbsp;
+[![Email](https://img.shields.io/badge/Email-projects.mdtbmw-000000?style=flat-square&logo=gmail&logoColor=FFD700)](mailto:projects.mdtbmw@gmail.com)
 
-</div>
+<br/><br/>
+
+| Platform | Identity | Direct Link |
+|:---:|:---:|:---:|
+| 🐙 `GitHub` | `mdtbmw` | [`github.com/mdtbmw`](https://github.com/mdtbmw) |
+| 💼 `LinkedIn` | `mdtbmw` | [`linkedin.com/in/mdtbmw`](https://linkedin.com/in/mdtbmw) |
+| 🐦 `X / Twitter` | `@MDTBMW` | [`x.com/MDTBMW`](https://x.com/MDTBMW) |
+| 📸 `Instagram` | `@MDTBMW` | [`instagram.com/MDTBMW`](https://instagram.com/MDTBMW) |
+| 📺 `YouTube` | `@mdtbmw` | [`youtube.com/@mdtbmw`](https://youtube.com/@mdtbmw) |
+| ✉️ `Email` | `projects.mdtbmw@gmail.com` | [`projects.mdtbmw@gmail.com`](mailto:projects.mdtbmw@gmail.com) |
 
 <br/>
 
 ---
 
-<br/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--         FOOTER — FULL WIDTH CENTERED BANNER                 -->
@@ -546,12 +542,12 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/>
 
-> *"Ideas without systems are just dreams. Systems without ideas are just machinery.*
+> *"Ideas without systems are just dreams. Systems without ideas are just machinery.*  
 > *I build the space where both meet."*
 
 <br/>
 
-📍 Benin City, Nigeria &nbsp;·&nbsp; 🏢 HeyTek Limited &nbsp;·&nbsp; [`github.com/mdtbmw`](https://github.com/mdtbmw)
+`📍 Benin City, Nigeria` &nbsp;·&nbsp; `🏢 HeyTek Limited` &nbsp;·&nbsp; [`github.com/mdtbmw`](https://github.com/mdtbmw)
 
 <br/>
 
