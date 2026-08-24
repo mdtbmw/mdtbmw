@@ -244,10 +244,13 @@
 <h2 id="-connect"><code>CONNECT</code></h2>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="connect_dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="connect_light.svg?v=1" />
+    <img alt="Connect - Direct Channels &amp; Global Availability" src="connect_dark.svg?v=1" width="100%" />
+  </picture>
 
-*If you have a vision that needs building — let's talk.*
-
-<br/>
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=flat-square&logo=github&logoColor=FFE873)](https://github.com/mdtbmw)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=flat-square&logo=linkedin&logoColor=FFE873)](https://linkedin.com/in/mdtbmw)&nbsp;
@@ -255,17 +258,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@MDTBMW-000000?style=flat-square&logo=instagram&logoColor=FFE873)](https://instagram.com/MDTBMW)&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-@mdtbmw-000000?style=flat-square&logo=youtube&logoColor=FFE873)](https://youtube.com/@mdtbmw)&nbsp;
 [![Email](https://img.shields.io/badge/Email-projects.mdtbmw-000000?style=flat-square&logo=gmail&logoColor=FFE873)](mailto:projects.mdtbmw@gmail.com)
-
-<br/><br/>
-
-| Platform | Identity | Action |
-|:---:|:---:|:---:|
-| `GitHub` | `mdtbmw` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://github.com/mdtbmw) |
-| `LinkedIn` | `mdtbmw` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://linkedin.com/in/mdtbmw) |
-| `X / Twitter` | `@MDTBMW` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://x.com/MDTBMW) |
-| `Instagram` | `@MDTBMW` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://instagram.com/MDTBMW) |
-| `YouTube` | `@mdtbmw` | [![Open](https://img.shields.io/badge/Channel-111111?style=flat-square&color=FFE873)](https://youtube.com/@mdtbmw) |
-| `Email` | `projects.mdtbmw@gmail.com` | [![Send Email](https://img.shields.io/badge/Contact-111111?style=flat-square&color=FFE873)](mailto:projects.mdtbmw@gmail.com) |
 
 <br/>
 

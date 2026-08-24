@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="400" viewBox="0 0 1125 400" role="img" aria-label="Connect - Direct Channels and Global Availability">
+  <rect x="0.5" y="0.5" width="1124" height="399" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+
+  <!-- Section Header -->
+  <text x="36" y="36" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#d0d7de">─</tspan><tspan fill="#B78103"> Connect · Direct Channels &amp; Availability </tspan><tspan fill="#d0d7de">─────────────────────────────</tspan></text>
+
+  <!-- Horizontal Status Bar -->
+  <rect x="36" y="54" width="1053" height="34" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="56" y="76" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#B78103">STATUS: </tspan><tspan fill="#8C6500" font-weight="bold">AVAILABLE GLOBALLY</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#24292f">Consulting, Venture Building, Architecture &amp; Strategic Advisory</tspan><tspan fill="#d0d7de"> ──► </tspan><tspan fill="#B78103" font-weight="bold">OPEN FOR INQUIRIES</tspan></text>
+
+  <!-- Row 1 -->
+  <!-- Card 01: Email -->
+  <rect x="36" y="100" width="516" height="76" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="54" y="124" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12.5" font-weight="bold"><tspan fill="#B78103">01 // EMAIL (DIRECT)</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#8C6500">projects.mdtbmw@gmail.com</tspan></text>
+  <text x="54" y="146" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5"><tspan fill="#57606a">Inquiries, proposals, venture architecture &amp; partnerships</tspan></text>
+
+  <!-- Card 04: X / Twitter -->
+  <rect x="573" y="100" width="516" height="76" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="591" y="124" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12.5" font-weight="bold"><tspan fill="#B78103">04 // X / TWITTER</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#8C6500">@MDTBMW</tspan></text>
+  <text x="591" y="146" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5"><tspan fill="#57606a">Systems thinking, tech commentary &amp; building in public</tspan></text>
+
+  <!-- Row 2 -->
+  <!-- Card 02: GitHub -->
+  <rect x="36" y="186" width="516" height="76" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="54" y="210" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12.5" font-weight="bold"><tspan fill="#B78103">02 // GITHUB</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#8C6500">github.com/mdtbmw</tspan></text>
+  <text x="54" y="232" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5"><tspan fill="#57606a">Codebases, software systems, experiments &amp; repositories</tspan></text>
+
+  <!-- Card 05: Instagram -->
+  <rect x="573" y="186" width="516" height="76" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="591" y="210" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12.5" font-weight="bold"><tspan fill="#B78103">05 // INSTAGRAM</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#8C6500">@MDTBMW</tspan></text>
+  <text x="591" y="232" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5"><tspan fill="#57606a">Visual design, studio updates &amp; creative direction</tspan></text>
+
+  <!-- Row 3 -->
+  <!-- Card 03: LinkedIn -->
+  <rect x="36" y="272" width="516" height="76" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="54" y="296" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12.5" font-weight="bold"><tspan fill="#B78103">03 // LINKEDIN</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#8C6500">linkedin.com/in/mdtbmw</tspan></text>
+  <text x="54" y="318" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5"><tspan fill="#57606a">Executive network, venture milestones &amp; professional updates</tspan></text>
+
+  <!-- Card 06: YouTube -->
+  <rect x="573" y="272" width="516" height="76" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="591" y="296" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12.5" font-weight="bold"><tspan fill="#B78103">06 // YOUTUBE</tspan><tspan fill="#d0d7de"> ─ </tspan><tspan fill="#8C6500">youtube.com/@mdtbmw</tspan></text>
+  <text x="591" y="318" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5"><tspan fill="#57606a">MD How To tutorials, tech breakdowns &amp; practical education</tspan></text>
+
+  <!-- Footer Principle -->
+  <text x="36" y="376" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#B78103">◈ </tspan><tspan fill="#57606a">Direct Call to Action: </tspan><tspan fill="#24292f">"If you have a vision that needs building — let's make it real."</tspan></text>
+</svg>
