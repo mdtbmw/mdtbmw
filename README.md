@@ -35,7 +35,6 @@
 
 [![WHAT I DO](https://img.shields.io/badge/WHAT_I_DO-111111?style=flat-square&color=FFE873&labelColor=111111)](#-what-i-do)&nbsp;
 [![IBOG](https://img.shields.io/badge/IBOG_FRAMEWORK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-the-ibog-framework)&nbsp;
-[![SELECTED WORK](https://img.shields.io/badge/SELECTED_WORK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-selected-work)&nbsp;
 [![TECH STACK](https://img.shields.io/badge/TECH_STACK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-tech-stack)&nbsp;
 [![PHILOSOPHY](https://img.shields.io/badge/PHILOSOPHY-111111?style=flat-square&color=FFE873&labelColor=111111)](#-building-philosophy)&nbsp;
 [![CAPABILITIES](https://img.shields.io/badge/CAPABILITIES-111111?style=flat-square&color=FFE873&labelColor=111111)](#-capabilities)&nbsp;
@@ -56,9 +55,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=2" />
-    <img alt="Daniel Innocent (MDTBMW) - Profile Card" src="dark_mode.svg?v=2" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=3" />
+    <img alt="Daniel Innocent (MDTBMW) - Profile Card" src="dark_mode.svg?v=3" width="100%" />
   </picture>
 </div>
 
@@ -101,78 +100,6 @@
     <img alt="The IBOG Framework - Lifecycle Engine" src="ibog_dark.svg?v=1" width="100%" />
   </picture>
 </div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     SELECTED WORK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 id="-selected-work"><code>SELECTED WORK</code></h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="selected_work_dark.svg?v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="selected_work_light.svg?v=1" />
-    <img alt="Selected Work - Ventures, Platforms &amp; Systems" src="selected_work_dark.svg?v=1" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<details>
-<summary><b><code>Expand: Project Deep Dives</code></b></summary>
-
-<br/>
-
-<details>
-<summary><b>HeyTek — Digital Creative &amp; Technology Agency</b></summary>
-<br/>
-
-HeyTek is the agency expression of the IBOG philosophy. We don't just deliver digital work — we embed the systems, processes, and infrastructure that help businesses run and grow end-to-end.
-
-- **Tagline:** *Build, Operate &amp; Grow.*
-- **Focus:** `Web` · `Product design` · `Brand systems` · `Business automation` · `Digital strategy`
-
-</details>
-
-<details>
-<summary><b>Cyona Medicare — Elderly Care Platform</b></summary>
-<br/>
-
-A platform addressing care coordination, operational workflows, and digital management for geriatric care providers, with a vision of setting the standard for elderly care services.
-
-</details>
-
-<details>
-<summary><b>Ilé Ìtúnú Geriatrics — Care Beyond Medicine</b></summary>
-<br/>
-
-Rooted in the belief that elderly people deserve more than clinical attention — they deserve dignity, comfort, and community. **Tagline:** *Care beyond medicine.*
-
-</details>
-
-<details>
-<summary><b>Ugbekun — School Management System</b></summary>
-<br/>
-
-A modern SaaS system addressing the administrative operational complexity of schools — student records, scheduling, communications, and reporting in one unified platform.
-
-</details>
-
-<details>
-<summary><b>Oduna — Logistics Technology Platform</b></summary>
-<br/>
-
-Built on the premise that logistics is fundamentally a systems problem, not just a transportation one. Oduna focuses on coordination, visibility, and operational efficiency in delivery.
-
-</details>
-
-</details>
 
 <br/>
 
