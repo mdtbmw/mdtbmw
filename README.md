@@ -23,15 +23,6 @@
 
 <br/><br/>
 
-<!-- gh-ascii Profile Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="mdtbmw's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-<br/><br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/mdtbmw)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/mdtbmw)&nbsp;
 [![X](https://img.shields.io/badge/X-MDTBMW-000000?style=for-the-badge&logo=x&logoColor=FFD700)](https://x.com/MDTBMW)&nbsp;
@@ -76,25 +67,13 @@
 
 ## ◈ Daniel Innocent
 
-<img align="right" src="https://avatars.githubusercontent.com/u/147601916?v=4" width="160" alt="Daniel Innocent · MDTBMW"/>
-
-**I'm Daniel Innocent** — known as **Masked Daniel**, operating as **MDTBMW**.
-
-I'm a Digital Solutions Expert based in **Benin City, Nigeria**, and the founder behind **HeyTek Limited** — a digital creative and technology company with one mandate: *make business simple through technology, strategy, and systems.*
-
-I work across product design, web development, business systems, automation, AI, and creative strategy. My interest isn't in any single skill or tool — it's in the complete journey from the moment an idea exists, to the point where it operates and scales as a real business.
-
-I believe Nigeria is moving from a hustle economy to a company-building economy. I build things that help that shift happen faster.
-
-<br/>
-
-| Focus | Description |
-|:---:|---|
-| 🧠 | **Systems Thinker** — Frameworks, processes, patterns, and scalable products |
-| 🔧 | **End-to-End Builder** — Design, development, operations, and business strategy |
-| 🌍 | **African Impact** — Rooted in Benin City, building solutions for Africa and the global market |
-| 🤝 | **Youth Development** — Digital literacy, education, and mentorship via Cherish Child NGO |
-| 🎵 | **Creative Expression** — Music, storytelling, and performing arts as **Unxa** · `@unxa.id` |
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="Daniel Innocent (MDTBMW) - About &amp; Focus Profile" src="dark_mode.svg" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
