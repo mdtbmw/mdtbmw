@@ -23,6 +23,15 @@
 
 <br/><br/>
 
+<!-- gh-ascii Profile Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="mdtbmw's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-mdtbmw-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/mdtbmw)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdtbmw-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/mdtbmw)&nbsp;
 [![X](https://img.shields.io/badge/X-MDTBMW-000000?style=for-the-badge&logo=x&logoColor=FFD700)](https://x.com/MDTBMW)&nbsp;
