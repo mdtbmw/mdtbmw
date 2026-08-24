@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="500" viewBox="0 0 1125 500" role="img" aria-label="What I Do - Core Engineering and Strategic Domains">
+  <rect x="0.5" y="0.5" width="1124" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Section Header -->
+  <text x="36" y="36" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#FFE873"> What I Do · Engineering &amp; Strategic Domains </tspan><tspan fill="#3d444d">─────────────────────────────</tspan></text>
+
+  <!-- Row 1 -->
+  <!-- Card 01: Digital Products -->
+  <rect x="36" y="54" width="516" height="126" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="54" y="80" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">01 // DIGITAL PRODUCTS</tspan></text>
+  <text x="54" y="104" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Scope: ... </tspan><tspan fill="#c9d1d9">SaaS platforms, web applications, MVPs, internal tools</tspan></text>
+  <text x="54" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Method: .. </tspan><tspan fill="#c9d1d9">Full-cycle architecture from concept to deployed product</tspan></text>
+  <text x="54" y="148" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Outcome: . </tspan><tspan fill="#FFF3B0">Scalable, high-performance software ready for users</tspan></text>
+
+  <!-- Card 04: Design & UI/UX -->
+  <rect x="573" y="54" width="516" height="126" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="591" y="80" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">04 // DESIGN &amp; UI/UX</tspan></text>
+  <text x="591" y="104" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Scope: ... </tspan><tspan fill="#c9d1d9">Interface design, design systems, brand architecture</tspan></text>
+  <text x="591" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Method: .. </tspan><tspan fill="#c9d1d9">Cognitive-load reduction &amp; friction-free user flows</tspan></text>
+  <text x="591" y="148" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Outcome: . </tspan><tspan fill="#FFF3B0">Memorable, intuitive &amp; conversion-focused interfaces</tspan></text>
+
+  <!-- Row 2 -->
+  <!-- Card 02: Systems & Operations -->
+  <rect x="36" y="192" width="516" height="126" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="54" y="218" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">02 // SYSTEMS &amp; OPERATIONS</tspan></text>
+  <text x="54" y="242" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Scope: ... </tspan><tspan fill="#c9d1d9">Business workflows, automation, operations machinery</tspan></text>
+  <text x="54" y="264" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Method: .. </tspan><tspan fill="#c9d1d9">Standardized procedures &amp; autonomous system loops</tspan></text>
+  <text x="54" y="286" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Outcome: . </tspan><tspan fill="#FFF3B0">Organizations that run efficiently without bottlenecks</tspan></text>
+
+  <!-- Card 05: AI & Automation -->
+  <rect x="573" y="192" width="516" height="126" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="591" y="218" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">05 // AI &amp; AUTOMATION</tspan></text>
+  <text x="591" y="242" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Scope: ... </tspan><tspan fill="#c9d1d9">LLM integrations, agentic workflows, smart automation</tspan></text>
+  <text x="591" y="264" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Method: .. </tspan><tspan fill="#c9d1d9">Technology doing repetitive cognitive &amp; data heavy tasks</tspan></text>
+  <text x="591" y="286" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Outcome: . </tspan><tspan fill="#FFF3B0">Drastic efficiency multipliers &amp; intelligent tooling</tspan></text>
+
+  <!-- Row 3 -->
+  <!-- Card 03: Web & Platforms -->
+  <rect x="36" y="330" width="516" height="126" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="54" y="356" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">03 // WEB &amp; PLATFORMS</tspan></text>
+  <text x="54" y="380" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Scope: ... </tspan><tspan fill="#c9d1d9">Landing pages, business portals, web platforms</tspan></text>
+  <text x="54" y="402" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Method: .. </tspan><tspan fill="#c9d1d9">Modern web stacks (React, Next.js, TypeScript, Cloud)</tspan></text>
+  <text x="54" y="424" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Outcome: . </tspan><tspan fill="#FFF3B0">Lightning-fast, highly responsive web experiences</tspan></text>
+
+  <!-- Card 06: Strategy & Architecture -->
+  <rect x="573" y="330" width="516" height="126" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="591" y="356" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">06 // STRATEGY &amp; ARCHITECTURE</tspan></text>
+  <text x="591" y="380" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Scope: ... </tspan><tspan fill="#c9d1d9">Product thinking, systems design, digital transformation</tspan></text>
+  <text x="591" y="402" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Method: .. </tspan><tspan fill="#c9d1d9">Aligning technology investments directly with business ROI</tspan></text>
+  <text x="591" y="424" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Outcome: . </tspan><tspan fill="#FFF3B0">Clear technical roadmap &amp; long-term scalability</tspan></text>
+
+  <!-- Footer Principle -->
+  <text x="36" y="480" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">◈ </tspan><tspan fill="#8b949e">Core Mandate: </tspan><tspan fill="#c9d1d9">"Make business simple through technology, strategy, and systems."</tspan></text>
+</svg>

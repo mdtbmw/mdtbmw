@@ -74,40 +74,13 @@
 
 <h2 id="-what-i-do"><code>WHAT I DO</code></h2>
 
-<table>
-<thead>
-<tr>
-<th>Area</th>
-<th>What this looks like in practice</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b><code>01 · Digital Products</code></b></td>
-<td>SaaS platforms, web applications, MVPs, internal tools — from concept to deployed product</td>
-</tr>
-<tr>
-<td><b><code>02 · Systems &amp; Operations</code></b></td>
-<td>Business workflows, automation, operational infrastructure, documentation — the machinery that keeps things running</td>
-</tr>
-<tr>
-<td><b><code>03 · Web &amp; Platforms</code></b></td>
-<td>Websites, landing pages, business platforms, conversion-focused digital experiences</td>
-</tr>
-<tr>
-<td><b><code>04 · Design &amp; UI/UX</code></b></td>
-<td>Product design, interface design, brand systems, and digital experiences that reduce friction</td>
-</tr>
-<tr>
-<td><b><code>05 · AI &amp; Automation</code></b></td>
-<td>AI-powered products, LLM integrations, intelligent workflows — technology doing the heavy lifting</td>
-</tr>
-<tr>
-<td><b><code>06 · Strategy &amp; Architecture</code></b></td>
-<td>Digital transformation, product thinking, systems design, and business process architecture</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="what_i_do_dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="what_i_do_light.svg?v=1" />
+    <img alt="What I Do - Engineering &amp; Strategic Domains" src="what_i_do_dark.svg?v=1" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
@@ -141,71 +114,13 @@
 
 <h2 id="-selected-work"><code>SELECTED WORK</code></h2>
 
-*Ventures, platforms, and systems built across digital, health, education, logistics, and consumer sectors.*
-
-<br/>
-
-<table>
-<thead>
-<tr>
-<th>Venture / Project</th>
-<th>Category</th>
-<th>Core Idea</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b><code>HeyTek</code></b></td>
-<td><code>Agency / Digital Studio</code></td>
-<td>Digital creative &amp; technology company. <em>Build, Operate &amp; Grow.</em></td>
-</tr>
-<tr>
-<td><b><code>Cyona Medicare</code></b></td>
-<td><code>Health Technology</code></td>
-<td>Elderly care platform — redefining care coordination and digital tooling for geriatric providers</td>
-</tr>
-<tr>
-<td><b><code>Ugbekun</code></b></td>
-<td><code>EdTech / SaaS</code></td>
-<td>School management system — records, scheduling, comms, and reporting unified</td>
-</tr>
-<tr>
-<td><b><code>Oduna</code></b></td>
-<td><code>Logistics / SaaS</code></td>
-<td>Logistics SaaS solving coordination and last-mile delivery through systems-first thinking</td>
-</tr>
-<tr>
-<td><b><code>Ilé Ìtúnú Geriatrics</code></b></td>
-<td><code>Healthcare / Social Impact</code></td>
-<td><em>Care beyond medicine.</em> Dignity, comfort, and community for the elderly.</td>
-</tr>
-<tr>
-<td><b><code>SweetLi</code></b></td>
-<td><code>Consumer Brand / F&amp;B</code></td>
-<td>Zobo, Tigernut, Yogurt Milk, Beetroot drinks. <em>The Sweetness of Life.</em></td>
-</tr>
-<tr>
-<td><b><code>Engraced Dispatch</code></b></td>
-<td><code>Logistics / Brand</code></td>
-<td>Logistics and dispatch brand. Visual identity: Black · White · Gold</td>
-</tr>
-<tr>
-<td><b><code>NAME Bootcamp</code></b></td>
-<td><code>Education / Branding</code></td>
-<td>N.A.M.E. framework bootcamp for personal and organizational brand development</td>
-</tr>
-<tr>
-<td><b><code>MD How To</code></b></td>
-<td><code>Education / Content</code></td>
-<td>Complex ideas made practically useful — technology, business, systems, life</td>
-</tr>
-<tr>
-<td><b><code>MDNI Farms</code></b></td>
-<td><code>Agriculture / Business</code></td>
-<td>Boer and Kalahari Red goat farming — systems thinking applied offline</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="selected_work_dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="selected_work_light.svg?v=1" />
+    <img alt="Selected Work - Ventures, Platforms &amp; Systems" src="selected_work_dark.svg?v=1" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
@@ -332,30 +247,12 @@ Built on the premise that logistics is fundamentally a systems problem, not just
 <h2 id="-building-philosophy"><code>BUILDING PHILOSOPHY</code></h2>
 
 <div align="center">
-
-> *I don't start with "What technology should we use?"*  
-> *I start with "What problem are we actually solving?"*
-
-```
-Problem ──► Idea ──► Structure ──► Design ──► Build ──► System ──► Operation ──► Growth
-```
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="philosophy_dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="philosophy_light.svg?v=1" />
+    <img alt="Building Philosophy - First-Principles Systems Design" src="philosophy_dark.svg?v=1" width="100%" />
+  </picture>
 </div>
-
-<br/>
-
-| # | Principle | Why it matters |
-|:---:|---|---|
-| `01` | **`Solve the real problem first`** | Not the symptom. Not the assumed cause. The actual problem. |
-| `02` | **`Don't overengineer prematurely`** | Complexity should be earned by necessity, not introduced by habit. |
-| `03` | **`Make complex systems simple for users`** | Sophistication lives in the architecture. Simplicity lives in the interface. |
-| `04` | **`Build systems, not isolated features`** | A feature solves one thing. A system solves a category of things. |
-| `05` | **`Design with operations in mind`** | A product that works but can't be maintained is a liability. |
-| `06` | **`Technology should serve the business`** | The stack is a tool. The outcome is the point. |
-| `07` | **`Good interfaces reduce cognitive load`** | If a user has to think hard, the design has failed. |
-| `08` | **`A product is more than its code`** | Onboarding, documentation, support — all part of the product. |
-| `09` | **`Scalability begins with good structure`** | You cannot scale chaos. Build the foundation right before adding weight. |
-| `10` | **`Automation should free human judgment`** | Remove friction. Preserve intelligence. |
 
 <br/>
 
@@ -370,55 +267,12 @@ Problem ──► Idea ──► Structure ──► Design ──► Build ─�
 <h2 id="-capabilities"><code>CAPABILITIES</code></h2>
 
 <div align="center">
-
-```
-  B U I L D  ·  T H I N K  ·  C R E A T E  ·  T E A C H
-```
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="capabilities_dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="capabilities_light.svg?v=1" />
+    <img alt="Capabilities - Multidisciplinary Execution" src="capabilities_dark.svg?v=1" width="100%" />
+  </picture>
 </div>
-
-<br/>
-
-Technology is my primary professional arena. **Creativity is part of how I think** — and it shapes almost everything I build.
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="10%"><code>01</code></td>
-<td><b><code>Writing</code></b></td>
-<td>Clarity through language. Ideas, frameworks, and narratives that make complex things understandable.</td>
-</tr>
-<tr>
-<td align="center"><code>02</code></td>
-<td><b><code>Speaking</code></b></td>
-<td>Communicating systems, strategy, and technology to audiences who need to act on them.</td>
-</tr>
-<tr>
-<td align="center"><code>03</code></td>
-<td><b><code>Performing Arts</code></b></td>
-<td>Studying character, presence, and emotion — disciplines that make communication human.</td>
-</tr>
-<tr>
-<td align="center"><code>04</code></td>
-<td><b><code>Creative Strategy</code></b></td>
-<td>Brand narrative, visual architecture, and creative storytelling that elevates product experience.</td>
-</tr>
-<tr>
-<td align="center"><code>05</code></td>
-<td><b><code>Education</code></b></td>
-<td>Making practical skills accessible. MD How To is one expression of this.</td>
-</tr>
-<tr>
-<td align="center"><code>06</code></td>
-<td><b><code>Community &amp; Mentorship</code></b></td>
-<td>Empowering youth through digital literacy, technology education, and vocational skills.</td>
-</tr>
-</table>
-
-<br/>
-
-> *The ability to communicate, design, and perform — not just to build — is what separates useful technology from invisible technology.*
 
 <br/>
 

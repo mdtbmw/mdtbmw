@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="490" viewBox="0 0 1125 490" role="img" aria-label="Capabilities - Multidisciplinary Execution and Creative Strategy">
+  <rect x="0.5" y="0.5" width="1124" height="489" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+
+  <!-- Section Header -->
+  <text x="36" y="36" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#d0d7de">─</tspan><tspan fill="#B78103"> Capabilities · Multidisciplinary Execution </tspan><tspan fill="#d0d7de">─────────────────────────────</tspan></text>
+
+  <!-- Horizontal Mantra Bar -->
+  <rect x="36" y="54" width="1053" height="34" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="56" y="76" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#B78103">B U I L D</tspan><tspan fill="#57606a"> · </tspan><tspan fill="#B78103">T H I N K</tspan><tspan fill="#57606a"> · </tspan><tspan fill="#B78103">C R E A T E</tspan><tspan fill="#57606a"> · </tspan><tspan fill="#B78103">T E A C H</tspan><tspan fill="#d0d7de"> ─────────────────────────── </tspan><tspan fill="#8C6500">Cross-Disciplinary Depth</tspan></text>
+
+  <!-- Row 1 -->
+  <!-- Card 01: Writing -->
+  <rect x="36" y="100" width="516" height="106" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="54" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#B78103">01 // WRITING</tspan></text>
+  <text x="54" y="150" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Mandate: </tspan><tspan fill="#24292f">Clarity through language &amp; structured frameworks</tspan></text>
+  <text x="54" y="172" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Focus: .. </tspan><tspan fill="#8C6500">Ideas, mental models &amp; docs that simplify complex systems</tspan></text>
+
+  <!-- Card 04: Creative Strategy -->
+  <rect x="573" y="100" width="516" height="106" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="591" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#B78103">04 // CREATIVE STRATEGY</tspan></text>
+  <text x="591" y="150" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Mandate: </tspan><tspan fill="#24292f">Brand narrative, visual systems &amp; creative direction</tspan></text>
+  <text x="591" y="172" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Focus: .. </tspan><tspan fill="#8C6500">Storytelling that connects architecture directly to humans</tspan></text>
+
+  <!-- Row 2 -->
+  <!-- Card 02: Speaking -->
+  <rect x="36" y="218" width="516" height="106" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="54" y="244" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#B78103">02 // SPEAKING</tspan></text>
+  <text x="54" y="268" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Mandate: </tspan><tspan fill="#24292f">Communicating systems, technology &amp; strategy</tspan></text>
+  <text x="54" y="290" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Focus: .. </tspan><tspan fill="#8C6500">Keynotes &amp; workshops for teams ready to take action</tspan></text>
+
+  <!-- Card 05: Education -->
+  <rect x="573" y="218" width="516" height="106" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="591" y="244" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#B78103">05 // EDUCATION</tspan></text>
+  <text x="591" y="268" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Mandate: </tspan><tspan fill="#24292f">Making high-leverage technical skills accessible</tspan></text>
+  <text x="591" y="290" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Focus: .. </tspan><tspan fill="#8C6500">MD How To tutorials, curriculum design &amp; masterclasses</tspan></text>
+
+  <!-- Row 3 -->
+  <!-- Card 03: Performing Arts -->
+  <rect x="36" y="336" width="516" height="106" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="54" y="362" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#B78103">03 // PERFORMING ARTS</tspan></text>
+  <text x="54" y="386" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Mandate: </tspan><tspan fill="#24292f">Character presence, emotional resonance &amp; pacing</tspan></text>
+  <text x="54" y="408" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Focus: .. </tspan><tspan fill="#8C6500">Disciplines that make digital communication deeply human</tspan></text>
+
+  <!-- Card 06: Community & Mentorship -->
+  <rect x="573" y="336" width="516" height="106" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="591" y="362" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#B78103">06 // COMMUNITY &amp; MENTORSHIP</tspan></text>
+  <text x="591" y="386" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Mandate: </tspan><tspan fill="#24292f">Empowering emerging talent with digital tools</tspan></text>
+  <text x="591" y="408" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#57606a">. Focus: .. </tspan><tspan fill="#8C6500">Digital literacy, youth leadership &amp; vocational training</tspan></text>
+
+  <!-- Footer Principle -->
+  <text x="36" y="468" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#B78103">◈ </tspan><tspan fill="#57606a">Principle: </tspan><tspan fill="#24292f">"The ability to communicate, design, and perform separates useful technology from invisible technology."</tspan></text>
+</svg>

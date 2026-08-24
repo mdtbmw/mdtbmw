@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="510" viewBox="0 0 1125 510" role="img" aria-label="Selected Work - Ventures, Platforms and Systems">
+  <rect x="0.5" y="0.5" width="1124" height="509" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Section Header -->
+  <text x="36" y="36" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#FFE873"> Selected Work · Ventures, Platforms &amp; Systems </tspan><tspan fill="#3d444d">────────────────────────────</tspan></text>
+
+  <!-- Row 1 -->
+  <!-- Card 01: HeyTek -->
+  <rect x="36" y="54" width="516" height="128" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="54" y="80" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">01 // HEYTEK</tspan><tspan fill="#3d444d"> ─ </tspan><tspan fill="#c9d1d9" font-weight="normal">Agency / Digital Studio</tspan></text>
+  <text x="54" y="104" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Mandate: </tspan><tspan fill="#c9d1d9">Digital creative &amp; technology company. Build, Operate &amp; Grow.</tspan></text>
+  <text x="54" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Focus: .. </tspan><tspan fill="#c9d1d9">Web development, brand systems, business automation &amp; strategy</tspan></text>
+  <text x="54" y="148" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Status: . </tspan><tspan fill="#FFF3B0">Active Parent Company &amp; Digital Studio</tspan></text>
+
+  <!-- Card 02: Cyona Medicare -->
+  <rect x="573" y="54" width="516" height="128" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="591" y="80" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">02 // CYONA MEDICARE</tspan><tspan fill="#3d444d"> ─ </tspan><tspan fill="#c9d1d9" font-weight="normal">Health Technology / SaaS</tspan></text>
+  <text x="591" y="104" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Mandate: </tspan><tspan fill="#c9d1d9">Elderly care platform &amp; geriatric management ecosystem</tspan></text>
+  <text x="591" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Focus: .. </tspan><tspan fill="#c9d1d9">Care coordination, operational tools &amp; medical workflow systems</tspan></text>
+  <text x="591" y="148" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Status: . </tspan><tspan fill="#FFF3B0">Specialized Geriatric Healthcare Infrastructure</tspan></text>
+
+  <!-- Row 2 -->
+  <!-- Card 03: Ugbekun -->
+  <rect x="36" y="196" width="516" height="128" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="54" y="222" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">03 // UGBEKUN</tspan><tspan fill="#3d444d"> ─ </tspan><tspan fill="#c9d1d9" font-weight="normal">EdTech / SaaS Platform</tspan></text>
+  <text x="54" y="246" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Mandate: </tspan><tspan fill="#c9d1d9">Unified school administration &amp; student management SaaS</tspan></text>
+  <text x="54" y="268" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Focus: .. </tspan><tspan fill="#c9d1d9">Records, gradebooks, scheduling, comms, reporting in one hub</tspan></text>
+  <text x="54" y="290" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Status: . </tspan><tspan fill="#FFF3B0">Cloud Educational ERP &amp; Operations Architecture</tspan></text>
+
+  <!-- Card 04: Oduna -->
+  <rect x="573" y="196" width="516" height="128" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="591" y="222" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">04 // ODUNA</tspan><tspan fill="#3d444d"> ─ </tspan><tspan fill="#c9d1d9" font-weight="normal">Logistics / Systems SaaS</tspan></text>
+  <text x="591" y="246" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Mandate: </tspan><tspan fill="#c9d1d9">Logistics platform solving delivery coordination via systems</tspan></text>
+  <text x="591" y="268" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Focus: .. </tspan><tspan fill="#c9d1d9">Last-mile routing visibility, automated dispatch, operations flow</tspan></text>
+  <text x="591" y="290" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Status: . </tspan><tspan fill="#FFF3B0">Systems-First Logistics Coordination Engine</tspan></text>
+
+  <!-- Row 3 -->
+  <!-- Card 05: Ilé Ìtúnú -->
+  <rect x="36" y="338" width="516" height="128" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="54" y="364" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">05 // ILÉ ÌTÚNÚ</tspan><tspan fill="#3d444d"> ─ </tspan><tspan fill="#c9d1d9" font-weight="normal">Healthcare / Social Impact</tspan></text>
+  <text x="54" y="388" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Mandate: </tspan><tspan fill="#c9d1d9">Care beyond medicine — dignity, comfort, and community</tspan></text>
+  <text x="54" y="410" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Focus: .. </tspan><tspan fill="#c9d1d9">Holistic geriatric living, supportive care &amp; community aid</tspan></text>
+  <text x="54" y="432" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Status: . </tspan><tspan fill="#FFF3B0">Dignity-Driven Care Organization</tspan></text>
+
+  <!-- Card 06: SweetLi & Specialized Ventures -->
+  <rect x="573" y="338" width="516" height="128" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="591" y="364" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="13" font-weight="bold"><tspan fill="#FFE873">06 // SWEETLI &amp; VENTURES</tspan><tspan fill="#3d444d"> ─ </tspan><tspan fill="#c9d1d9" font-weight="normal">Consumer / Offline Systems</tspan></text>
+  <text x="591" y="388" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Mandate: </tspan><tspan fill="#c9d1d9">Natural food &amp; beverage brand and offline operational systems</tspan></text>
+  <text x="591" y="410" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#8b949e">. Focus: .. </tspan><tspan fill="#c9d1d9">SweetLi F&amp;B, MDNI Farms &amp; NAME Framework Bootcamp</tspan></text>
+  <text x="591" y="432" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">. Status: . </tspan><tspan fill="#FFF3B0">Cross-Sector Systems Thinking Applied in Practice</tspan></text>
+
+  <!-- Footer Principle -->
+  <text x="36" y="488" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#FFE873">◈ </tspan><tspan fill="#8b949e">Focus: </tspan><tspan fill="#c9d1d9">"Ventures, platforms, and systems built across digital, health, education, logistics, and consumer sectors."</tspan></text>
+</svg>
