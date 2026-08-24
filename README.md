@@ -28,20 +28,20 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     NAVIGATION                              -->
+<!--                     NAVIGATION PILLS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[`ABOUT`](#-about) &nbsp;·&nbsp;
-[`WHAT I DO`](#-what-i-do) &nbsp;·&nbsp;
-[`IBOG`](#-the-ibog-framework) &nbsp;·&nbsp;
-[`SELECTED WORK`](#-selected-work) &nbsp;·&nbsp;
-[`TECH STACK`](#-tech-stack) &nbsp;·&nbsp;
-[`PHILOSOPHY`](#-building-philosophy) &nbsp;·&nbsp;
-[`CAPABILITIES`](#-capabilities) &nbsp;·&nbsp;
-[`METRICS`](#-github-activity--metrics) &nbsp;·&nbsp;
-[`CONNECT`](#-connect)
+[![ABOUT](https://img.shields.io/badge/ABOUT-111111?style=flat-square&color=FFE873&labelColor=111111)](#-about)&nbsp;
+[![WHAT I DO](https://img.shields.io/badge/WHAT_I_DO-111111?style=flat-square&color=FFE873&labelColor=111111)](#-what-i-do)&nbsp;
+[![IBOG](https://img.shields.io/badge/IBOG_FRAMEWORK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-the-ibog-framework)&nbsp;
+[![SELECTED WORK](https://img.shields.io/badge/SELECTED_WORK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-selected-work)&nbsp;
+[![TECH STACK](https://img.shields.io/badge/TECH_STACK-111111?style=flat-square&color=FFE873&labelColor=111111)](#-tech-stack)&nbsp;
+[![PHILOSOPHY](https://img.shields.io/badge/PHILOSOPHY-111111?style=flat-square&color=FFE873&labelColor=111111)](#-building-philosophy)&nbsp;
+[![CAPABILITIES](https://img.shields.io/badge/CAPABILITIES-111111?style=flat-square&color=FFE873&labelColor=111111)](#-capabilities)&nbsp;
+[![METRICS](https://img.shields.io/badge/METRICS-111111?style=flat-square&color=FFE873&labelColor=111111)](#-github-activity--metrics)&nbsp;
+[![CONNECT](https://img.shields.io/badge/CONNECT-111111?style=flat-square&color=FFE873&labelColor=111111)](#-connect)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-    <img alt="Daniel Innocent (MDTBMW) - Profile Card" src="dark_mode.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=2" />
+    <img alt="Daniel Innocent (MDTBMW) - Profile Card" src="dark_mode.svg?v=2" width="100%" />
   </picture>
 </div>
 
@@ -488,8 +488,8 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <!-- Live Dynamic Metrics Dashboard (Light Yellow Theme) -->
 [![Repositories](https://img.shields.io/badge/Public_Repositories-25-FFE873?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/mdtbmw?tab=repositories)&nbsp;
-[![Followers](https://img.shields.io/github/followers/mdtbmw?style=for-the-badge&color=FFE873&labelColor=000000&logo=github&logoColor=000000&label=Followers)](https://github.com/mdtbmw?tab=followers)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=mdtbmw&style=for-the-badge&color=FFE873&labelColor=000000&label=PROFILE+VIEWS&abbreviated=true)
+[![Followers](https://img.shields.io/github/followers/mdtbmw?style=for-the-badge&color=FFE873&labelColor=000000&logo=github&logoColor=FFE873&label=Followers)](https://github.com/mdtbmw?tab=followers)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=mdtbmw&style=for-the-badge&color=yellow&labelColor=000000&label=PROFILE+VIEWS&abbreviated=true)
 
 <br/><br/>
 
@@ -527,14 +527,14 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/><br/>
 
-| Platform | Identity | Direct Link |
+| Platform | Identity | Action |
 |:---:|:---:|:---:|
-| `GitHub` | `mdtbmw` | [`github.com/mdtbmw`](https://github.com/mdtbmw) |
-| `LinkedIn` | `mdtbmw` | [`linkedin.com/in/mdtbmw`](https://linkedin.com/in/mdtbmw) |
-| `X / Twitter` | `@MDTBMW` | [`x.com/MDTBMW`](https://x.com/MDTBMW) |
-| `Instagram` | `@MDTBMW` | [`instagram.com/MDTBMW`](https://instagram.com/MDTBMW) |
-| `YouTube` | `@mdtbmw` | [`youtube.com/@mdtbmw`](https://youtube.com/@mdtbmw) |
-| `Email` | `projects.mdtbmw@gmail.com` | [`projects.mdtbmw@gmail.com`](mailto:projects.mdtbmw@gmail.com) |
+| `GitHub` | `mdtbmw` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://github.com/mdtbmw) |
+| `LinkedIn` | `mdtbmw` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://linkedin.com/in/mdtbmw) |
+| `X / Twitter` | `@MDTBMW` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://x.com/MDTBMW) |
+| `Instagram` | `@MDTBMW` | [![Open](https://img.shields.io/badge/Profile-111111?style=flat-square&color=FFE873)](https://instagram.com/MDTBMW) |
+| `YouTube` | `@mdtbmw` | [![Open](https://img.shields.io/badge/Channel-111111?style=flat-square&color=FFE873)](https://youtube.com/@mdtbmw) |
+| `Email` | `projects.mdtbmw@gmail.com` | [![Send Email](https://img.shields.io/badge/Contact-111111?style=flat-square&color=FFE873)](mailto:projects.mdtbmw@gmail.com) |
 
 <br/>
 
@@ -560,7 +560,7 @@ Technology is my primary professional arena. **Creativity is part of how I think
 
 <br/>
 
-`HeyTek Limited · Global Digital Solutions` &nbsp;·&nbsp; [`github.com/mdtbmw`](https://github.com/mdtbmw)
+`HeyTek Limited · Global Digital Solutions`
 
 <br/>
 
